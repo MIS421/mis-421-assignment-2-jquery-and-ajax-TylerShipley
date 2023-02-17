@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mis-421-assignment-2-jquery-and-ajax-TylerShipley.props" />
+</Project>

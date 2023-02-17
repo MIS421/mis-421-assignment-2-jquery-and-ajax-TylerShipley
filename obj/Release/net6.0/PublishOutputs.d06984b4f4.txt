@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-TylerShipley.exe
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-TylerShipley.dll
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-TylerShipley.deps.json
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-TylerShipley.runtimeconfig.json
+C:\Users\tyler\source\repos\mis-421-assignment-2-jquery-and-ajax-TylerShipley\obj\Release\net6.0\PubTmp\Out\mis-421-assignment-2-jquery-and-ajax-TylerShipley.pdb
